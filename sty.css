@@ -1,17 +1,64 @@
 hr {
-    border: none;
-    border-top: 3px double #e92020;
-    color: #f00b0b;
-    overflow: visible;
-    text-align: center;
-    height: 5px;
-  }
-  
-  hr::after {
-    background: #fff;
-    content: '§';
-    padding: 0 4px;
-    position: relative;
-    top: -13px;
-  }
-  
+  border: none;
+  border-top: 3px double #e92020;
+  color: #f00b0b;
+  overflow: visible;
+  text-align: center;
+  height: 5px;
+}
+
+hr::after {
+  background: #fff;
+  content: '§';
+  padding: 0 4px;
+  position: relative;
+  top: -13px;
+}
+
+.A {
+  color: #e92020;
+  text-align: left;
+  font-size: 4rem;
+  text-transform: uppercase;
+  text-shadow: 2px 2px pink;
+margin-top: 0px;
+}
+
+.B {
+  /* margin-top: -10px; */
+  text-align: right ;
+  font-size: 4rem;
+  text-transform: uppercase;
+  text-shadow: 2px 2px pink;
+  /* margin-bottom: 0px; */
+
+  color: violet;
+}
+.C{
+  text-align: center ;
+  font-size: 4rem;
+  text-transform: uppercase;
+  text-shadow: 2px 2px rgb(163, 32, 54);
+  /* margin-bottom: 0px; */
+
+  color: violet;
+
+}
+.D{
+  text-align:  ;
+  font-size: 4rem;
+  text-transform: uppercase;
+  text-shadow: 2px 2px pink;
+  /* margin-bottom: 0px; */
+
+  color: violet;
+}
+.E{
+  text-align: end ;
+  font-size: 4rem;
+  text-transform: uppercase;
+  text-shadow: 2px 2px rgb(6, 114, 255);
+  /* margin-bottom: 0px; */
+
+  color: violet;
+}
