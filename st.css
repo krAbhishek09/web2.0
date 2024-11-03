@@ -1,0 +1,17 @@
+div{
+    background-color: aqua;
+    height: 150px;
+    display: inline-block;
+    width: 150px;
+    border: 1px solid blue;
+}
+.box{
+    /* position: relative; */
+    /* left: 15px; */
+    /* top: 100px; */
+
+}
+#box3{
+    position: relative;
+    top: 100px;
+}

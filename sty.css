@@ -45,7 +45,7 @@ margin-top: 0px;
 
 }
 .D{
-  text-align:  ;
+  /* text-align:  ; */
   font-size: 4rem;
   text-transform: uppercase;
   text-shadow: 2px 2px pink;
@@ -61,4 +61,16 @@ margin-top: 0px;
   /* margin-bottom: 0px; */
 
   color: violet;
+}
+div{
+  background-color: aqua;
+  /* height: 200px;
+  width: 200px;
+  border: 1px solid black; */
+
+}
+.box1{
+  position: relative;
+  left: 15px;
+  top: 100px;
 }
