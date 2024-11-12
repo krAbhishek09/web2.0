@@ -1,0 +1,15 @@
+.conatiner{
+    height: 700px;
+   display: grid;
+   grid-template-rows: 30px 150px 400px 30px;
+   grid-template-columns: 400px;
+    background-color: yellow;
+    border: 1px solid #a81d1d;
+}
+.box{
+    /* border-radius: 1px solid #
+    a81d1d; */
+border: 2px solid pink;
+    background-color: aqua;
+
+}
