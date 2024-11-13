@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.conatiner{
+    border: 1px solid red;
+    background-color: pink;
+height: 300px;
+width: 200px;
+}
+
+
+.box{
+    /* color: blue; */
+    --dark-red:#981a2c;
+    color: var(--dark-red);
+    border: 1px solid yellow;
+    background-color: aqua;
+}
